@@ -1,4 +1,5 @@
 # Typescript-practice
+기본 코드 작성
 
 ## 2022-06-13 
 
